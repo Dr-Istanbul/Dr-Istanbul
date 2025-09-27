@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Dr-Istanbul
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me ? Do some Python!
+- 👀 I’m interested in ML, AI, Data, and Python
+- 🌱 I’m currently practicing ML, AI, Data, and Python
+- 💞️ I’m looking to collaborate on ML, AI, Data, and Python
+- 📫 How to reach me ? Do some ML, AI, Data, and Python!
 - 😄 Pronouns: Pronouns
-- ⚡ Fun fact: 'Okay' starts with 'O' and ends at 'y'
+- ⚡ Fun fact: 'ML' starts with 'M' and ends at 'L'
 
 <!---
 Dr-Istanbul/Dr-Istanbul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
