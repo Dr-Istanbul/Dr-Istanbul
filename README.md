@@ -3,7 +3,7 @@
 - 🌱 I’m currently practicing ML, AI, Data, and Python
 - 💞️ I’m looking to collaborate on ML, AI, Data, and Python
 - 📫 How to reach me ? Do some ML, AI, Data, and Python!
-- 😄 Pronouns: Pronouns
+- 😄 Pronouns: They
 - ⚡ Fun fact: 'ML' starts with 'M' and ends at 'L'
 
 <!---
